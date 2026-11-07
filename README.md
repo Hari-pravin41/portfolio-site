@@ -1,1 +1,5 @@
-Deploy with Vercel (see chat for commands). Env vars: SMTP_USER, SMTP_PASSWORD, CONTACT_TO.
+# Hari Pravin Portfolio
+
+My personal portfolio website showing my work, experience and skills.
+
+Live site: https://hari-pravin-portfolio-site.vercel.app
